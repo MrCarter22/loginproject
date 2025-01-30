@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+  }
+  h1 {
+    color: powderblue;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+  p {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+  a:link {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: yellowgreen ;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  table, th, td {
+    border: 1px solid white;
+    color:aqua;
+  }
+
+  
+  
